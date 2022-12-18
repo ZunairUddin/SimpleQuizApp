@@ -1,0 +1,19 @@
+.heading {
+  background-color: #6ab7ff;
+}
+
+.qNo {
+  background-color: #6f74dd;
+}
+.ques {
+  margin-top: -25px;
+}
+.customBtn {
+  background-color: #6f74dd;
+}
+footer {
+  color: rgb(146, 146, 146);
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
